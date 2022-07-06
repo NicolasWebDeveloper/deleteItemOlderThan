@@ -20,4 +20,4 @@ function main {
 }
 
 
-main -folder "FOLDER_DESTINATION" -days 10
+main -folder "Source_Folder" -days 10
